@@ -6,3 +6,5 @@
 
 ## <span id="question_5">面试题5 替换空格</span>
 
+## <span id="question_6">面试题6 从尾到头打印链表</span>
+

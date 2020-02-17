@@ -17,4 +17,6 @@
 > #### 面试题4 [二维数组中的查找](./chapter_2/section_3#question_4) P44
 >
 > #### 面试题5 [替换空格](./chapter_2/section_3#question_5) P51
+>
+> #### 面试题6 [从尾到头打印链表](./chapter_2/section_3#question_6) P58
 
