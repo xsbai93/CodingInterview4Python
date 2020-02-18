@@ -14,4 +14,6 @@
 > #### 面试题5 [替换空格](./section_3#question_5) P51
 >
 > #### 面试题6 [从尾到头打印链表](./section_3#question_6) P58
+>
+> #### 面试题7 [重建二叉树](./section_3#question_7) P62
 
