@@ -9,3 +9,7 @@
 ## <span id="question_6">面试题6 从尾到头打印链表</span>
 
 ## <span id="question_7">面试题7 重建二叉树</span>
+
+## <span id="question_8">面试题8 二叉树的下一个节点</span>
+
+## <span id="question_9">面试题9 用两个栈实现队列</span>

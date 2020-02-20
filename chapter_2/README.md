@@ -16,4 +16,8 @@
 > #### 面试题6 [从尾到头打印链表](./section_3#question_6) P58
 >
 > #### 面试题7 [重建二叉树](./section_3#question_7) P62
+>
+> #### 面试题8 [二叉树的下一个节点](./section_3#question_8) P65
+>
+> #### 面试题9 [用两个栈实现队列](./section_3#question_9) P68
 
