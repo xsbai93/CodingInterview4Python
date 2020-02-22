@@ -13,5 +13,3 @@
 ## <span id="question_8">面试题8 二叉树的下一个节点</span>
 
 ## <span id="question_9">面试题9 用两个栈实现队列</span>
-
-## <span id="question_10">面试题10 斐波那契数列</span>
