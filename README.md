@@ -33,3 +33,5 @@
 > #### 面试题10 [斐波那契数列](./chapter_2/section_3#question_10) P74
 >
 > #### 面试题11 [旋转数组的最小数字](./chapter_2/section_3#question_11) P82
+>
+> #### 面试题12 [矩阵中的路径](./chapter_2/section_3#question_12) P89

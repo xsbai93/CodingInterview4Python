@@ -7,10 +7,11 @@
 
 def fib(num):
     a, b = 0, 1
-    for i in xrange(num):
+    for i in range(num):
         yield b
         a, b = b, a + b
 
 
 if __name__ == '__main__':
-    print [n for n in fib(10)]
+    num = [n for n in fib(10)]
+    print(num)

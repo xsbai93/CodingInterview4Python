@@ -38,3 +38,4 @@ if __name__ == '__main__':
     pre = [1, 2, 4, 7, 3, 5, 6, 8]
     tin = [4, 7, 2, 1, 5, 3, 8, 6]
     print(reConstructBinaryTree(pre, tin))
+    # 打印二叉树见ds2py.ds.tree

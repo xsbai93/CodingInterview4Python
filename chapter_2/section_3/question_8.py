@@ -19,21 +19,21 @@ def GetNext(pNode):
     """
     if not pNode:
             return None
-        if not pNode.left and not pNode.right and not pNode.next:
-            return None
-        # 是否有右孩子
-        if pNode.right:
-            res = pNode.right
-            while res.left:
-                res = res.left
-            return res
-        # 如果没有右孩子但是有父节点
-        while pNode.next:
-            father = pNode.next
-            if father.left == pNode:
-                return father
-            pNode = father
+    if not pNode.left and not pNode.right and not pNode.next:
         return None
+    # 是否有右孩子
+    if pNode.right:
+        res = pNode.right
+        while res.left:
+            res = res.left
+        return res
+    # 如果没有右孩子但是有父节点
+    while pNode.next:
+        father = pNode.next
+        if father.left == pNode:
+            return father
+        pNode = father
+    return None
 
 
 class TreeLinkNode:
@@ -47,5 +47,5 @@ class TreeLinkNode:
 
 if __name__ == '__main__':
     TreeLink = TreeLinkNode()
-    # 构建二叉树见ds4py.tree
+    # 构建二叉树见ds4py.ds.tree
     print(GetNext(pre, tin))
