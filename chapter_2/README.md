@@ -24,8 +24,10 @@
 
 ### 2.4 [算法和数据操作](/chapter_2/section_4)
 
-> #### 面试题10 [斐波那契数列](./section_3#question_10) P74
+> #### 面试题10 [斐波那契数列](./section_4#question_10) P74
 
-> #### 面试题11 [旋转数组的最小数字](./section_3#question_11) P82
+> #### 面试题11 [旋转数组的最小数字](./section_4#question_11) P82
 
-> #### 面试题12 [矩阵中的路径](./section_3#question_12) P89
+> #### 面试题12 [矩阵中的路径](./section_4#question_12) P89
+
+> #### 面试题13 [机器人的运动范围](./section_4#question_13) P92
